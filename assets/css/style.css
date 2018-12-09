@@ -167,6 +167,10 @@ h3, h2 {
   background: #4aaaa5;
   border-bottom: 0;
 }
+.work h3 a {
+  text-decoration: none;
+  color: #ffffff;
+}
 
 .auth-image {
   float: left;
